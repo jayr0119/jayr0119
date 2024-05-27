@@ -3,8 +3,7 @@
 I am: 
 -  A software developer.
 -  My expertise lies in C, C++, Python.
--  My hobbies outside of coding is playing soccer, volleyball.
--  My 
+-  My interests outside of coding are playing sports, trading, hiking. 
 
 #### Contact Information:
 - Email: `jayanthravuri19 <at> gmail.com`
